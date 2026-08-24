@@ -58,8 +58,8 @@ export interface PrestasiItem {
 export const PESANTREN_INFO = {
   name: "Pondok Pesantren Darul Fawaid Ilmiyah",
   shortName: "PP DFI",
-  logoUrl: "https://i.ibb.co.com/gFWV27xB/DFI-Resolusi.png",
-  heroLogoUrl: "https://i.ibb.co.com/Wpzth3LY/DFI-Resolusi.png",
+  logoUrl: "https://i.ibb.co.com/jvY0SVDx/Foto-Profil.jpg",
+  heroLogoUrl: "https://i.ibb.co.com/jvY0SVDx/Foto-Profil.jpg",
   heroBackground: "https://i.ibb.co.com/zzqMMFq/DSC5150.jpg",
   tagline: "Bersama kami, Membina Akhlaqul Karimah dan Menjadi Generasi Islamiyah yang Mampu Menggali Potensi & Meraih Segudang Prestasi!",
   registrationFormUrl: "https://forms.gle/SK7MLpni2ge26UC99",
@@ -83,7 +83,7 @@ export const LEMBAGA_LIST: LembagaItem[] = [
   {
     id: "mdt",
     name: "Madrasah Diniyah Takmiliyah (MDT)",
-    abbr: "MDT Takmiliyah",
+    abbr: "Telah terdaftar resmi dan memiliki Izin Operasional (IJOP).",
     logo: "https://i.ibb.co.com/BHBvLX08/Logo-MADIN-Takmiliyah.png",
     description: "Fokus pada pendalaman keilmuan agama Islam (Tafaqquh Fiddin), bimbingan baca tulis Al-Qur'an, kajian kitab kuning dasar, serta pembentukan akhlakul karimah sebagai fondasi spiritual santri.",
     tag: "Pendidikan Diniyah Salaf"
@@ -91,14 +91,14 @@ export const LEMBAGA_LIST: LembagaItem[] = [
   {
     id: "smp",
     name: "Sekolah Menengah Pertama (SMP)",
-    abbr: "SMP DFI",
+    abbr: "Menginduk ke SMP DWK (Dalam proses pengurusan IJOP).",
     logo: "https://i.ibb.co.com/TDzHjMjZ/Logo-SMP.png",
     description: "Menyelenggarakan pendidikan dasar menengah yang mengintegrasikan kurikulum nasional (Kemendikbud) dengan nilai-nilai kepesantrenan untuk membentuk karakter santri yang mandiri, disiplin, dan berprestasi.",
   },
   {
     id: "slta",
     name: "Sekolah Lanjutan Tingkat Atas (SLTA)",
-    abbr: "SLTA DFI",
+    abbr: "Menginduk ke DWK dengan kegiatan belajar yang dikelola mandiri.",
     logo: "https://i.ibb.co.com/F9HrznH/Excel.png",
     description: "Mempersiapkan kader lulusan yang kompeten, berwawasan luas, dan memiliki kemampuan literasi digital agar siap bersaing di tingkat perguruan tinggi maupun dunia kerja berlandaskan iman dan takwa.",
     tag: "Lanjutan Menengah Atas"
