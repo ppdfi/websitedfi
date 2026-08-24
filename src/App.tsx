@@ -747,7 +747,7 @@ export default function App() {
                       </p>
                     </div>
                     <div className="mt-5 pt-4 border-t border-stone-100 flex items-center justify-between text-xs text-stone-400">
-                      <span className="text-emerald-800 font-medium">{prog.category}</span>
+                      <span className="text-emerald-100 font-thin">{prog.category}</span>
                       <span>0{index + 1}</span>
                     </div>
                   </div>
