@@ -1155,7 +1155,7 @@ export default function App() {
 
                 <div className="mt-8 pt-6 border-t border-stone-100 flex flex-wrap gap-3">
                   <a
-                    href="https://maps.app.goo.gl/YayasanDarulGhiranAlyamany"
+                    href="https://maps.app.goo.gl/nW3VdbkHCEvMhdFt8"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-emerald-800 hover:bg-emerald-700 text-white text-xs font-bold transition shadow-sm"
