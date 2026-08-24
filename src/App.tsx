@@ -227,7 +227,7 @@ export default function App() {
                   PP Darul Fawaid Ilmiyah
                 </span>
                 <span className="text-emerald-300/80 text-[10px] sm:text-xs font-medium tracking-wide">
-                  Besuk • Probolinggo
+                  Randujalak • Besuk • Probolinggo
                 </span>
               </div>
             </a>
@@ -387,7 +387,7 @@ export default function App() {
 
             <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white/10 backdrop-blur-md border border-white/15 text-amber-300 text-xs sm:text-sm font-semibold tracking-wide mb-4">
               <span className="w-2 h-2 rounded-full bg-amber-400 animate-pulse" />
-              <span>Pondok Pesantren Salaf Modern Berkarakter</span>
+              <span>Berjiwa Islami, Modern, dan Unggul</span>
             </div>
 
             <h1 className="text-3xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-white leading-tight mb-2">
