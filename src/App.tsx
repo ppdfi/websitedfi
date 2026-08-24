@@ -686,8 +686,8 @@ export default function App() {
                   </div>
 
                   <div className="mt-6 pt-4 border-t border-stone-100 flex items-center justify-between text-xs text-stone-400">
-                    <span className="font-light text-stone-400">{item.abbr}</span>
-                    <span className="font-mono text-stone-400">0{index + 1}</span>
+                    <span className="font-mono text-[10px] text-stone-400 pr-4 text-left">{item.abbr}</span>
+                    <span className="ffont-mono text-stone-400 shrink-0">0{index + 1}</span>
                   </div>
                 </div>
               ))}
