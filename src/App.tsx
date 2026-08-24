@@ -227,7 +227,7 @@ export default function App() {
                   PP Darul Fawaid Ilmiyah
                 </span>
                 <span className="text-emerald-300/80 text-[10px] sm:text-xs font-medium tracking-wide">
-                  Randujalak • Besuk • Probolinggo
+                  Besuk • Probolinggo
                 </span>
               </div>
             </a>
@@ -387,7 +387,7 @@ export default function App() {
 
             <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white/10 backdrop-blur-md border border-white/15 text-amber-300 text-xs sm:text-sm font-semibold tracking-wide mb-4">
               <span className="w-2 h-2 rounded-full bg-amber-400 animate-pulse" />
-              <span>Berjiwa Islami, Modern, dan Unggul</span>
+              <span>Pondok Pesantren Salaf Modern Berkarakter</span>
             </div>
 
             <h1 className="text-3xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-white leading-tight mb-2">
@@ -686,12 +686,7 @@ export default function App() {
                   </div>
 
                   <div className="mt-6 pt-4 border-t border-stone-100 flex items-center justify-between text-xs text-stone-400">
-                    <span className="font-medium text-emerald-800/80 flex items-center gap-2">
-                        <span className="w-5 h-5 rounded-full bg-emerald-100 border border-emerald-500 flex items-center justify-center text-emerald-600 text-[10px] font-bold">
-                        ✓
-                      </span>
-                      {item.abbr}
-                    </span>
+                    <span className="font-medium text-emerald-800/80">{item.abbr}</span>
                     <span className="font-mono text-stone-400">0{index + 1}</span>
                   </div>
                 </div>
@@ -747,7 +742,7 @@ export default function App() {
                       </p>
                     </div>
                     <div className="mt-5 pt-4 border-t border-stone-100 flex items-center justify-between text-xs text-stone-400">
-                      <span className="text-emerald-100 font-thin">{prog.category}</span>
+                      <span className="text-emerald-800 font-medium">{prog.category}</span>
                       <span>0{index + 1}</span>
                     </div>
                   </div>
