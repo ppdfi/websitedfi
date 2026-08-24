@@ -687,7 +687,7 @@ export default function App() {
 
                   <div className="mt-6 pt-4 border-t border-stone-100 flex items-center justify-between text-xs text-stone-400">
                     <span className="font-medium text-emerald-800/80 flex items-center gap-2">
-                      <span className="w-5 h-5 rounded-full border-2 border-emerald-600 flex items-center justify-center text-emerald-600 text-[10px] font-bold">
+                        <span className="w-5 h-5 rounded-full bg-emerald-100 border border-emerald-500 flex items-center justify-center text-emerald-600 text-[10px] font-bold">
                         ✓
                       </span>
                       {item.abbr}
