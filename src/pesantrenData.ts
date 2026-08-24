@@ -58,8 +58,8 @@ export interface PrestasiItem {
 export const PESANTREN_INFO = {
   name: "Pondok Pesantren Darul Fawaid Ilmiyah",
   shortName: "PP DFI",
-  logoUrl: "https://i.ibb.co.com/jvY0SVDx/Foto-Profil.jpg",
-  heroLogoUrl: "https://i.ibb.co.com/jvY0SVDx/Foto-Profil.jpg",
+  logoUrl: "https://i.ibb.co.com/LX68brCv/Logo-PNG.png",
+  heroLogoUrl: "https://i.ibb.co.com/LX68brCv/Logo-PNG.png",
   heroBackground: "https://i.ibb.co.com/zzqMMFq/DSC5150.jpg",
   tagline: "Bersama kami, Membina Akhlaqul Karimah dan Menjadi Generasi Islamiyah yang Mampu Menggali Potensi & Meraih Segudang Prestasi!",
   registrationFormUrl: "https://forms.gle/SK7MLpni2ge26UC99",
@@ -98,7 +98,7 @@ export const LEMBAGA_LIST: LembagaItem[] = [
   {
     id: "slta",
     name: "Sekolah Lanjutan Tingkat Atas (SLTA)",
-    abbr: "Menginduk ke DWK dengan kegiatan belajar yang dikelola mandiri.",
+    abbr: "Menginduk ke MA DWK dengan kegiatan belajar yang dikelola mandiri.",
     logo: "https://i.ibb.co.com/F9HrznH/Excel.png",
     description: "Mempersiapkan kader lulusan yang kompeten, berwawasan luas, dan memiliki kemampuan literasi digital agar siap bersaing di tingkat perguruan tinggi maupun dunia kerja berlandaskan iman dan takwa.",
     tag: "Lanjutan Menengah Atas"
