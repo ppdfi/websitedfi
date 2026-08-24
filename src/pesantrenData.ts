@@ -215,25 +215,33 @@ export const GALLERY_LIST: GalleryItem[] = [
 export const PRESTASI_LIST: PrestasiItem[] = [
   {
     id: "p1",
-    santri: "Ananda Ana Maulidiah",
+    santri: "Lomba Tartilul Qur'an",
     peringkat: "Juara 1",
-    lomba: "Lomba Tartilul Qur'an",
+    lomba: "Ananda Ana Maulidiah",
     keterangan: "Pada Festival Satu Muharram (Tahun Baru Islam 1448 H) yang diselenggarakan oleh Masjid Baitur Rahim Randujalak Besuk pada 13 Juni 2026.",
     tanggal: "13 Juni 2026"
   },
   {
     id: "p2",
-    santri: "Ananda Moh. Hifdi Akmalul Iman",
+    santri: "Lomba Tartilul Qur'an",
     peringkat: "Juara 3",
-    lomba: "Lomba Tartilul Qur'an",
+    lomba: "Ananda Moh. Hifdi Akmalul Iman",
     keterangan: "Pada Festival Satu Muharram (Tahun Baru Islam 1448 H) yang diselenggarakan oleh Masjid Baitur Rahim Randujalak Besuk pada 13 Juni 2026.",
     tanggal: "13 Juni 2026"
   },
   {
     id: "p3",
-    santri: "Ananda Yuliana",
+    santri: "Lomba Tartilul Qur'an",
+    peringkat: "Juara 99",
+    lomba: "Ananda Moh. Hifdi Akmalul Iman",
+    keterangan: "Pada Festival Satu Muharram (Tahun Baru Islam 1448 H) yang diselenggarakan oleh Masjid Baitur Rahim Randujalak Besuk pada 13 Juni 2026.",
+    tanggal: "13 Juni 2026"
+  },
+  {
+    id: "p4",
+    santri: "Lomba Tartilul Qur'an",
     peringkat: "Juara Harapan Satu",
-    lomba: "Lomba Tartilul Qur'an",
+    lomba: "Ananda Yuliana",
     keterangan: "Pada Festival Satu Muharram (Tahun Baru Islam 1448 H) yang diselenggarakan oleh Masjid Baitur Rahim Randujalak Besuk pada 13 Juni 2026.",
     tanggal: "13 Juni 2026"
   }
