@@ -234,6 +234,12 @@ export const PRESTASI_LIST: PrestasiItem[] = [
     santri: "Lomba Tartilul Qur'an",
     peringkat: "Juara 99",
     lomba: "Ananda Moh. Hifdi Akmalul Iman",
+    santri: "Lomba Tartilul Qur'an",
+    peringkat: "Juara 100",
+    lomba: "Ananda Faiz",
+    santri: "Lomba Tartilul Qur'an",
+    peringkat: "Juara 150",
+    lomba: "Ananda Ahmad Haikal Habibi",
     keterangan: "Pada Festival Satu Muharram (Tahun Baru Islam 1448 H) yang diselenggarakan oleh Masjid Baitur Rahim Randujalak Besuk pada 13 Juni 2026.",
     tanggal: "13 Juni 2026"
   },
