@@ -541,7 +541,7 @@ export default function App() {
               {[
                 { icon: Calendar, title: "Tahun 1444 H / 2022 M", desc: "Didirikan oleh KH. Zaky Ayamany & disahkan resmi oleh negara pada 25 November 2022." },
                 { icon: Building, title: "Tanah Wakaf & Cangkrok", desc: "Bermula dari masjid dan kamar sederhana (cangkrok) sebagai pusat awal dakwah & tarbiyah." },
-                { icon: User, title: "Generasi Awal", desc: "Dimulai dengan 3 pengurus ikhlas dan 5 santri mukim sebagai bibit pertama pesantren." },
+                { icon: User, title: "Generasi Awal", desc: "Dimulai dengan tiga pengurus putra, tiga pengurus putri, dan lima santri mukim sebagai bibit pertama pesantren." },
                 { icon: Compass, title: "Tumbuh Berkelanjutan", desc: "Terus berkembang meningkatkan sarana, mutu diniyah, dan kompetensi global santri." }
               ].map((item, index) => {
                 const Icon = item.icon;
@@ -563,7 +563,7 @@ export default function App() {
               <div className="absolute top-0 left-0 right-0 h-1.5 bg-gradient-to-r from-emerald-700 via-emerald-600 to-amber-500" />
               <div className="space-y-4 text-stone-700 text-sm sm:text-base leading-relaxed text-justify">
                 <p>
-                  Pondok Pesantren Darul Fawaid Ilmiyah didirikan pada tahun 1444 Hijriyah oleh <strong className="text-stone-900 font-bold">KH. Zaky Ayamany</strong> dan memperoleh pengesahan resmi dari negara pada <strong className="text-stone-900 font-bold">25 November 2022</strong>. Berawal dari sebuah masjid dan kamar sederhana (madura: <em>cangkrok</em>) yang berdiri di atas tanah wakaf, pesantren ini memulai langkahnya dengan tiga orang pengurus dan lima santri mukim sebagai generasi pertama.
+                  Pondok Pesantren Darul Fawaid Ilmiyah didirikan pada tahun 1444 Hijriyah oleh <strong className="text-stone-900 font-bold">KH. Zaky Ayamany</strong> dan memperoleh pengesahan resmi dari negara pada <strong className="text-stone-900 font-bold">25 November 2022</strong>. Berawal dari sebuah masjid dan kamar sederhana (madura: <em>cangkrok</em>) yang berdiri di atas tanah wakaf, pesantren ini memulai langkahnya dengan enam orang pengurus dan lima santri mukim sebagai generasi pertama.
                 </p>
                 <p>
                   Meskipun usianya masih tergolong muda, Pondok Pesantren Darul Fawaid Ilmiyah terus menunjukkan perkembangan yang positif. Dengan semangat membangun pendidikan Islam yang berkualitas, pesantren senantiasa berupaya meningkatkan mutu pembelajaran, sarana pendukung, serta pembinaan karakter santri agar mampu menghadapi tantangan zaman.
