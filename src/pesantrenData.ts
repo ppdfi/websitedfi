@@ -58,9 +58,9 @@ export interface PrestasiItem {
 export const PESANTREN_INFO = {
   name: "Pondok Pesantren Darul Fawaid Ilmiyah",
   shortName: "PP DFI",
-  logoUrl: "https://i.ibb.co.com/LX68brCv/Logo-PNG.png",
-  heroLogoUrl: "https://i.ibb.co.com/LX68brCv/Logo-PNG.png",
-  heroBackground: "https://i.ibb.co.com/zzqMMFq/DSC5150.jpg",
+  logoUrl: "https://github.com/ppdfi/aset/blob/main/LogoDFI/Logo%20PNG.png?raw=true",
+  heroLogoUrl: "https://github.com/ppdfi/aset/blob/main/LogoDFI/Logo%20PNG.png?raw=true",
+  heroBackground: "https://github.com/ppdfi/aset/blob/main/Website/Background.jpg?raw=true",
   tagline: "Bersama kami, Membina Akhlaqul Karimah dan Menjadi Generasi Islamiyah yang Mampu Menggali Potensi & Meraih Segudang Prestasi!",
   registrationFormUrl: "https://forms.gle/SK7MLpni2ge26UC99",
   whatsappUrl: "https://wa.me/6282290505240",
@@ -84,7 +84,7 @@ export const LEMBAGA_LIST: LembagaItem[] = [
     id: "mdt",
     name: "Madrasah Diniyah Takmiliyah (MDT)",
     abbr: "Telah terdaftar resmi dan memiliki Izin Operasional (IJOP).",
-    logo: "https://i.ibb.co.com/BHBvLX08/Logo-MADIN-Takmiliyah.png",
+    logo: "https://github.com/ppdfi/aset/blob/main/LogoDFI/Logo%20MADIN%20Takmiliyah.png?raw=true",
     description: "Fokus pada pendalaman keilmuan agama Islam (Tafaqquh Fiddin), bimbingan baca tulis Al-Qur'an, kajian kitab kuning dasar, serta pembentukan akhlakul karimah sebagai fondasi spiritual santri.",
     tag: "Pendidikan Diniyah Salaf"
   },
@@ -92,14 +92,14 @@ export const LEMBAGA_LIST: LembagaItem[] = [
     id: "smp",
     name: "Sekolah Menengah Pertama (SMP)",
     abbr: "Menginduk ke SMP DWK (Dalam proses pengurusan IJOP).",
-    logo: "https://i.ibb.co.com/TDzHjMjZ/Logo-SMP.png",
+    logo: "https://github.com/ppdfi/aset/blob/main/LogoDFI/Logo%20SMP.png?raw=true",
     description: "Menyelenggarakan pendidikan dasar menengah yang mengintegrasikan kurikulum nasional (Kemendikbud) dengan nilai-nilai kepesantrenan untuk membentuk karakter santri yang mandiri, disiplin, dan berprestasi.",
   },
   {
     id: "slta",
     name: "Sekolah Lanjutan Tingkat Atas (SLTA)",
     abbr: "Menginduk ke MA DWK dengan kegiatan belajar yang dikelola mandiri.",
-    logo: "https://i.ibb.co.com/F9HrznH/Excel.png",
+    logo: "https://github.com/ppdfi/aset/blob/main/LogoDFI/StarPlaceHolder.png?raw=true",
     description: "Mempersiapkan kader lulusan yang kompeten, berwawasan luas, dan memiliki kemampuan literasi digital agar siap bersaing di tingkat perguruan tinggi maupun dunia kerja berlandaskan iman dan takwa.",
     tag: "Lanjutan Menengah Atas"
   }
@@ -109,35 +109,35 @@ export const PROGRAM_LIST: ProgramItem[] = [
   {
     id: "yanbua",
     title: "Baca Tulis Qur'an Metode Yanbu'a",
-    image: "https://i.ibb.co.com/bwVCKdz/Yanbu-a.jpg",
+    image: "https://github.com/ppdfi/aset/blob/main/Website/Progam%20Unggulan/Yanbua.jpg?raw=true",
     description: "Program pembelajaran membaca dan menulis Al-Qur'an secara tartil yang terstruktur, cepat, dan bersanad.",
     category: "Al-Qur'an & Tajwid"
   },
   {
     id: "kitab",
     title: "Kajian Kitab Kuning",
-    image: "https://i.ibb.co.com/dsN1V1DN/Kitab.jpg",
+    image: "https://github.com/ppdfi/aset/blob/main/Website/Progam%20Unggulan/Kitab.jpg?raw=true",
     description: "Kajian kitab salaf meliputi ilmu fikih, hadits, aqidah, akhlak, dan tarikh untuk mencetak generasi tafaqquh fiddin.",
     category: "Tafaqquh Fiddin"
   },
   {
     id: "bahasa",
     title: "Kursus Bahasa Asing",
-    image: "https://i.ibb.co.com/Ng2X2bTw/Bahasa.jpg",
+    image: "https://github.com/ppdfi/aset/blob/main/Website/Progam%20Unggulan/Bahasa.jpg?raw=true",
     description: "Pelatihan intensif bahasa Arab dan Inggris untuk membekali santri dengan kemampuan komunikasi global dan literasi internasional.",
     category: "Bahasa Arab & Inggris"
   },
   {
     id: "belajar-wajib",
     title: "Belajar Wajib",
-    image: "https://i.ibb.co.com/MxQdNc7v/Beajar-Wajib.jpg",
+    image: "https://github.com/ppdfi/aset/blob/main/Website/Progam%20Unggulan/BelajarWajib.jpg?raw=true",
     description: "Jam belajar terpadu dan pendampingan kurikulum formal maupun diniyah untuk memastikan pencapaian akademis santri secara maksimal.",
     category: "Bimbingan Belajar"
   },
   {
     id: "wali-asuh",
     title: "Program Wali Asuh",
-    image: "https://i.ibb.co.com/GvzCyVXn/Wali-Asuh.jpg",
+    image: "https://github.com/ppdfi/aset/blob/main/Website/Progam%20Unggulan/WaliAsuh.jpg?raw=true",
     description: "Pendampingan intensif oleh asatidz sebagai orang tua asuh di pesantren untuk memantau perkembangan karakter, ibadah, dan prestasi santri.",
     category: "Pengasuhan & Karakter"
   }
@@ -147,67 +147,67 @@ export const GALLERY_LIST: GalleryItem[] = [
   {
     id: "g1",
     title: "KBM Madin",
-    image: "https://i.ibb.co.com/Q3ZccjYY/KBM-Madin.jpg",
+    image: "https://github.com/ppdfi/aset/blob/main/Website/Galeri/KBMMadin.jpg?raw=true",
     category: "akademik"
   },
   {
     id: "g2",
     title: "KBM SMP",
-    image: "https://i.ibb.co.com/gbFGdhwr/KBM-SMP.jpg",
+    image: "https://github.com/ppdfi/aset/blob/main/Website/Galeri/KBMSMP.jpg?raw=true",
     category: "akademik"
   },
   {
     id: "g3",
     title: "Upacara Bendera",
-    image: "https://i.ibb.co.com/60Y0gP5c/Upacara.jpg",
+    image: "https://github.com/ppdfi/aset/blob/main/Website/Galeri/Upacara.jpeg?raw=true",
     category: "kegiatan"
   },
   {
     id: "g4",
     title: "Pengajian Kitab",
-    image: "https://i.ibb.co.com/cKqTkX5R/Pengajian-Kitab.jpg",
+    image: "https://github.com/ppdfi/aset/blob/main/Website/Galeri/PengajianKitab.jpg?raw=true",
     category: "ibadah"
   },
   {
     id: "g5",
     title: "Pembacaan Diba'iyyah",
-    image: "https://i.ibb.co.com/NgY1kfW2/Diba.jpg",
+    image: "https://github.com/ppdfi/aset/blob/main/Website/Galeri/Diba.jpeg?raw=true",
     category: "ibadah"
   },
   {
     id: "g6",
     title: "Pendalaman Furudul 'Ainiyah & Kemasyarakatan",
-    image: "https://i.ibb.co.com/4Z6qRT4L/FA.jpg",
+    image: "https://github.com/ppdfi/aset/blob/main/Website/Galeri/FA.jpg?raw=true",
     category: "ibadah"
   },
   {
     id: "g7",
     title: "Wejangan Pengasuh",
-    image: "https://i.ibb.co.com/BHrfc5p7/Wejangan-Pengasuh.jpg",
+    image: "https://github.com/ppdfi/aset/blob/main/Website/Galeri/WejanganPengasuh.jpeg?raw=true",
     category: "kegiatan"
   },
   {
     id: "g8",
     title: "Istighatsah & Rapat Bulanan Pengajar Yayasan",
-    image: "https://i.ibb.co.com/W4fWVNR2/Rapat.jpg",
+    image: "https://github.com/ppdfi/aset/blob/main/Website/Galeri/Rapat.jpg?raw=true",
     category: "kegiatan"
   },
   {
     id: "g9",
     title: "Ekstrakurikuler Pagar Nusa",
-    image: "https://i.ibb.co.com/whkc251Y/Ekstra-Pagar-Nusa.jpg",
+    image: "https://github.com/ppdfi/aset/blob/main/Website/Galeri/Rapat.jpg?raw=true",
     category: "ekskul"
   },
   {
     id: "g10",
     title: "Ekstrakurikuler Melukis",
-    image: "https://i.ibb.co.com/JwTP2wXr/Melukis.jpg",
+    image: "https://github.com/ppdfi/aset/blob/main/Website/Galeri/EkstraMelukis.jpg?raw=true",
     category: "ekskul"
   },
   {
     id: "g11",
     title: "Ekstrakurikuler Futsal",
-    image: "https://i.ibb.co.com/xS6rs6Tn/Futsal.jpg",
+    image: "https://github.com/ppdfi/aset/blob/main/Website/Galeri/EkstraFutsal.jpeg?raw=true",
     category: "ekskul"
   }
 ];
@@ -242,10 +242,10 @@ export const PRESTASI_LIST: PrestasiItem[] = [
 export const INITIAL_BERITA: Berita[] = [
   {
     id: 101,
-    title: "Penerimaan Santri Baru (PSB) Tahun Ajaran 2027/2028 Resmi Dibuka",
+    title: "Penerimaan Santri Baru (PSB) Tahun Ajaran 2027/2028 Segera Dibuka",
     category: "Pengumuman",
     date: "2026-08-15T00:00:00.000Z",
-    cover: "https://i.ibb.co.com/zzqMMFq/DSC5150.jpg",
-    content: "Pondok Pesantren Darul Fawaid Ilmiyah secara resmi membuka pendaftaran santri baru untuk tahun ajaran mendatang. Tersedia program beasiswa tahfidz dan fasilitas asrama representatif untuk menunjang tumbuh kembang santri."
+    cover: "https://github.com/ppdfi/aset/blob/main/Website/Background.jpg?raw=true",
+    content: "Pondok Pesantren Darul Fawaid Ilmiyah secara resmi membuka pendaftaran santri baru untuk tahun ajaran mendatang. Tersedia berbagai macam program dan fasilitas asrama representatif untuk menunjang tumbuh kembang santri."
   }
 ];
